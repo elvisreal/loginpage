@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shr_hint_username">username</string>
+    <string name="shr_hint_password">password</string>
+    <string name="shr_button_cancel">cancel</string>
+    <string name="shr_button_next">next</string>
+    <string name="email">email</string>
+    <string name="sign_in">sign in</string>
+    <string name="todo">TODO</string>
+    <string name="log_info_email_is_accesslistview_gmail_com_password_1234">log info: email is accesslistview@gmail.com, password:1234</string>
+</resources>
